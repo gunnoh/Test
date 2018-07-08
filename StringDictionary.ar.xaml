@@ -1,12 +1,12 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:RaiDrive.Center.Languages" xmlns:system="clr-namespace:System;assembly=mscorlib">
 
 	<!--  Menu bar>Settings, General  -->
-	<system:String x:Key="Current.Language">fr</system:String>
+	<system:String x:Key="Current.Language">ar</system:String>
 
-	<system:String x:Key="Settings">Paramètres</system:String>
-	<system:String x:Key="Settings.Header">Paramètres</system:String>
+	<system:String x:Key="Settings">Settings</system:String>
+	<system:String x:Key="Settings.Header">Settings</system:String>
 	<system:String x:Key="Settings.General">General</system:String>
-	<system:String x:Key="Settings.Language">Langue</system:String>
+	<system:String x:Key="Settings.Language">Language</system:String>
 	<system:String x:Key="Settings.Update">Update</system:String>
 	<system:String x:Key="Settings.Facebook">Facebook</system:String>
 	<system:String x:Key="Settings.Facebook.Like">Like</system:String>
